@@ -1,0 +1,4 @@
+-- Views created for analytics
+-- v_order_line_revenue
+-- v_returns_enriched
+-- v_order_net_revenue

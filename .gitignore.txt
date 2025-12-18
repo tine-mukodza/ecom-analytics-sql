@@ -1,0 +1,5 @@
+data/*.csv
+data/*.xlsx
+
+.DS_Store
+Thumbs.db
